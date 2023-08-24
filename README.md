@@ -1,16 +1,29 @@
-### Hi there 👋
+<div align="center">
+  <a href="https://pw.is/" target="_blank"><img src="intro.gif" alt="👋 Hi there! I'm Fufaaaa" title="👋 Hi there! I'm Fufaaaa"/></a>
+</div>
 
-<!--
-**Fufaaaa/Fufaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hi there! I'm Fufaaaa.</h1>
+<h3 align="center">Estudiante de Ingeniería Civil Eléctrica · Universidad de Chile</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/docker/pulls/wilfahrt/gatling-webserver">
+  <img src="https://img.shields.io/badge/Digital-Security-green">
+  <img src="https://img.shields.io/badge/Public%20Speaker-%F0%9F%94%8A-blue">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Soy una estudiante de sexto especializándome en el área de Inteligencia Computacional ⚡. 
+- Entre mis intereses están el aprendizaje de máquinas en sus diferentes aplicaciones, incluyendo la Ciencia de Datos, visión computacional, robótica y la innovación tecnológica :rocket:. 
+- Busco constantemente potenciar mis habilidades blandas participando en actividades extra programáticas :rainbo:.
+- Tengo un perrito que se llama Rocky, está chiquito :dog:.
+- A veces juego Guitar Hero :guitar:.
+
+
+:computer: Puedes ver mi perfil profeional en [LinkedIn](https://www.linkedin.com/in/fabiola-pizarro-fuentes/)
+
+
+
+
+
+
+
+
