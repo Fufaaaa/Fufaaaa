@@ -2,7 +2,7 @@
   <a href="https://pw.is/" target="_blank"><img src="intro.gif" alt="👋 Hi there! I'm Fufaaaa" title="👋 Hi there! I'm Fufaaaa"/></a>
 </div>
 
-<h1 align="center">👋 Hi there! I'm Fufaaaa.</h1>
+<h1 align="center">👋 Hi there! I'm not Peter, I'm Fufaaaa :happy:.</h1>
 <h3 align="center">Estudiante de Ingeniería Civil Eléctrica · Universidad de Chile</h3>
 
 <p align="center">
@@ -18,7 +18,7 @@
 - A veces juego Guitar Hero :guitar:.
 
 
-:computer: Puedes ver mi perfil profeional en [LinkedIn](https://www.linkedin.com/in/fabiola-pizarro-fuentes/)
+:computer: Puedes ver mi perfil profesional en [LinkedIn](https://www.linkedin.com/in/fabiola-pizarro-fuentes/)
 
 
 
